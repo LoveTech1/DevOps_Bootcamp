@@ -20,4 +20,6 @@ $ git branch <name> (Creating new branch)
 
 $ git checkout <name> (leaving current branch to <name> branch)
 
+$ git checkout -b <new_branch_name> (create a new branch and switch to that branch automatically)
+
 $ git remote remove origin <https://github.com/NewExample.git> (removing the repositary link)
