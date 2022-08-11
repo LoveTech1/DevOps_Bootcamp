@@ -1,0 +1,23 @@
+Go to the folder that contains program ($ denotes commands donot include "$" while executing.)
+
+$ git init
+
+$ git status
+
+$ git add . (for all)
+
+$ git commit -m " `comment`"
+
+$ git remote add origin <https://github.com/NewExample.git>  (adding repositary link)
+
+or
+
+$ git remote set-url origin https://github.com/Sudip2073/Automate-task-with-script-and-cronjob.git
+
+$ git push -u origin master
+
+$ git branch <name> (Creating new branch)
+
+$ git checkout <name> (leaving current branch to <name> branch)
+
+$ git remote remove origin <https://github.com/NewExample.git> (removing the repositary link)
