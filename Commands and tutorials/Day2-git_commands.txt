@@ -20,4 +20,10 @@ $ git branch <name> (Creating new branch)
 
 $ git checkout <name> (leaving current branch to <name> branch)
 
+or
+
+$ git checkout -b <name> (Creates a new branch before changing the branch)
+
 $ git remote remove origin <https://github.com/NewExample.git> (removing the repositary link)
+
+$ git clone <https://github.com/NewExample.git> (Cloning the repo.)
